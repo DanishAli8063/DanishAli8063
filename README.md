@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Danish Ali</h1>
-<h3 align="center">A passionate ML Engineer - Python Developer from Pakistan</h3>
+<h6 align="center">A passionate ML Engineer - Python Developer from Pakistan with expertise in Python Development, Machine Learning, Databases, Automation and Web-Developmen services. I am always open to collaborating on different projects, finding creative ideas, and learning new things.</h6>
 
-- 🔭 I’m currently working on [Call Analytics](https://github.com/IDRAk-ML/Call_Analytics)
+- 🔭 I’m currently working as a ML Engineer - Python Developer at Idrak AI.
+
+- 🌍 I'm based in Islamabad, Pakistan.
+ 
+- 🤝 I’m open to collaborating on Python and ML Projects.
+
+- 🔭 I’m currently working on [Call Analytics](https://github.com/IDRAk-ML/Call_Analytics).
 
 - 🌱 I’m currently learning **LLM, Generative AI, LangChain, PyTorch, Ollama.**
 
-- 👯 I’m looking to collaborate on [Linkedin Automation](https://github.com/DanishAli8063/Lnikedin_Automation_Tool)
+- 👯 I’m looking to collaborate on [Linkedin Automation](https://github.com/DanishAli8063/Lnikedin_Automation_Tool).
 
 
 - 💬 Ask me about **ML, NLP, Python, Databases, DevOps.**
 
-- 📫 How to reach me **danish.ali.8063@gmail.com**
+- 📫 How to reach me **danish.ali.8063@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
